@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @armasprt
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on Web Design
 - 📫 How to reach me linkedin.com/armadika
